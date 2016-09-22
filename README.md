@@ -1,4 +1,4 @@
-Name:
+Name: Jonah Manarang
 
 Compilation and Run Successful:
 
