@@ -1,6 +1,6 @@
 Name: Jonah Manarang
 
-Compilation and Run Successful:
+Compilation and Run Successful: Unable to run due to error "Error while installing APK" in regards to app-debug.apk "not existing on disk"
 
 Unit Test Run Successfully: Finished with exit code 0(successful)
 
